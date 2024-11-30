@@ -1,5 +1,5 @@
 {
-  "name": "lambda",
+  "name": "pdf-layer",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,11 +8,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
   "description": "",
   "dependencies": {
-    "@aws-sdk/client-bedrock-runtime": "latest",
-    "@aws-sdk/client-s3": "latest",
     "pdf-parse": "^1.1.1"
   }
 }
